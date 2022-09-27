@@ -1,0 +1,15 @@
+{
+  "name": "beatles-app",
+  "version": "1.0.0",
+  "description": "Web App desenvolvido para introduzir o senhor Nonoca na carreira de programador front-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "add"
+  },
+  "author": "Nocaberto",
+  "license": "ISC"
+}
