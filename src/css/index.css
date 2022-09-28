@@ -7,3 +7,22 @@ body {
     font: arial;
     text-align: center ;
 }
+
+#albuns{
+  margin: top 10px;
+  margin-left: 200px;
+}
+
+h1{
+    text-align:center;
+    border:10px solid rgb(255, 255, 255);
+    height: 100px;
+    padding:10px;
+
+}
+
+h2{
+    color:rgb(234, 0, 255);
+    padding:10px;
+
+}
