@@ -1,8 +1,9 @@
 body {
-    background-color: #24292F;
+    background-color: #ffffff;
 }
 
-#content {
-    color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+#title {
+    color: rgb(0, 0, 0);
+    font: arial;
+    text-align: center ;
 }
