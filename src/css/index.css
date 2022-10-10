@@ -1,9 +1,9 @@
 body {
-    background-color: #ffffff;
+    background-color: #c40606;
 }
 
 #title {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font: arial;
     text-align: center ;
 }
@@ -15,14 +15,13 @@ body {
 
 h1{
     text-align:center;
-    border:10px solid rgb(255, 255, 255);
     height: 100px;
     padding:10px;
 
 }
 
 h2{
-    color:rgb(234, 0, 255);
+    color:rgb(0, 17, 255);
     padding:10px;
 
 }
